@@ -1,0 +1,25 @@
+{
+    "id": "5D308005",
+    "path": "~/GitHub/reviewECIBSE/createEmpiricalNetworks.r",
+    "project_path": "createEmpiricalNetworks.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1588796587211.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "5,53",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1592813558,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592813559728,
+    "read_only": false,
+    "read_only_alternatives": []
+}

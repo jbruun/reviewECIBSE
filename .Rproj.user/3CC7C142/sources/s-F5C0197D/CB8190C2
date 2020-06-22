@@ -1,0 +1,25 @@
+{
+    "id": "CB8190C2",
+    "path": "~/GitHub/reviewECIBSE/createModuleNetworks.r",
+    "project_path": "createModuleNetworks.r",
+    "type": "r_source",
+    "hash": "1833709799",
+    "contents": "",
+    "dirty": false,
+    "created": 1590086350814.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "24,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1592813559,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592813559909,
+    "read_only": false,
+    "read_only_alternatives": []
+}
