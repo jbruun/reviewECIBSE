@@ -1,0 +1,171 @@
+"Identifying research questions
+For the analyses within this review, the activity of identifying research questions was distinguished
+from the more general and content- (or comprehension-) related activities of questioning (e.g. Chin &
+Osborne, 2010) and question-posing (e.g. Kaberman & Dori, 2009). Questioning requires students to
+‘engage with their current understanding, probe into alternative ways of explaining phenomena, and
+ask why certain explanations are better than others’ (Chin & Osborne, 2010, p. 886). Aguiar, Mortimer
+and Scott (2010) call this kind of questions wonderment questions because they ‘require integration of
+complex and divergent information from various sources, and reflect curiosity, puzzlement, scepticism
+or speculation’ (p. 175).
+The focus of this review, however, is on the identification of research questions. Twelve publications
+address this issue, but details concerning this construct are provided in only nine of them (see Figure 3).
+An explicit definition of a research question is only given in the study by White and Frederiksen (1998)
+where students should formulate ‘a well-formed, investigable research question whose pursuit will
+advance their understanding of a topic they are curious about’ (p. 10). Other studies mainly focus on
+one of the two characteristics, respectively, the need for research questions to be testable (Chang et al.,
+2011; Ebenezer, Kaya, & Ebenezer, 2011) or their potential to advance understanding (Cavagnetto, Hand,
+& Norton-Meier, 2010). A third characteristic is eventually addressed in a study by Samarapungavan,
+Patrick and Mantzicopoulos (2011) who focus on students’ ability to use science concepts in the generation
+of scientific research questions.
+A specific focus on the identification of research questions is found in a study by Hofstein, Navon,
+Kipnis and Mamlok-Naaman (2005). They investigated the effects of inquiry-type laboratory activities on
+students’ ability to ask more and better questions and to choose research questions for further research.
+The results showed that students improved their ability to ask better and more relevant questions as a
+result of gaining experience with the inquiry-type experiments. Additional studies assessed the ability to identify research questions as part of students’ inquiry abilities, mostly with respect to interventions
+fostering these abilities. Ebenezer et al. (2011), e.g. analysed the effects of participating in long-term
+scientific research projects on inquiry abilities using rubrics consisting of 11 criteria to assess students’
+project reports. Their analyses showed that students reached the highest proficiency values with respect
+to those two criteria that were related to the formulation of research questions. In a similar way, So
+(2003) included students’ ability to judge primary students’ research reports in a survey study. In two
+studies by Samarapungavan, Mantzicopoulos, and Patrick (2008) and Samarapungavan et al. (2011),
+dealing with the learning of science through inquiry in kindergarten, an electronic portfolio system was
+used to collect and evaluate evidence of children’s learning through classroom inquiry activities. The
+portfolios contained two types of data, student artefacts (e.g. records in science notebooks or posters)
+and digital videos and transcriptions of the intervention activities. One criterion for the portfolio analysis
+was the raising of research questions and predictions (Samarapungavan et al., 2011). Results showed
+that the inquiry intervention led to significant improvements with respect to children’s ability to raise
+research questions and predictions. Finally, students’ ability to formulate research questions was included
+as one facet of inquiry competence in a self-report questionnaire that was evaluated in a study by
+Chang et al. (2011).
+In summary, all studies focus on students’ ability to identify or raise research questions, mainly by
+means of open-ended formats or portfolios. To evaluate the quality of these questions, different characteristics
+are used, e.g. the need for research questions to be testable (Chang et al., 2011; Ebenezer
+et al., 2011), their potential to advance understanding (Cavagnetto et al., 2010) or the application of
+science concepts in the generation of research questions (Samarapungavan et al., 2011). However, no
+study focuses on the question how the assessment format impacts the evaluation of students’ abilities
+to identify and raise research questions and whether there is a preferable format when focusing on
+specific aspects of this activity. Few studies address fostering students’ abilities in identifying research
+questions. Moreover, these studies focus entirely on an immersion approach of participating in inquirytype
+laboratory activities or research-like projects. Hence, apart from repeated practice, little is known
+about instructional activities to develop students’ ability to identify research questions, in general, as
+well as with regard to the different characteristics of this inquiry activity.___Searching for information
+A focus on searching for information is often related to ill-structured, real-life problems in collaborative
+learning environments like, e.g. project-based science (Butler & Lumpe, 2008; So, 2003), problem-based
+learning or problem-solving activities in general (e.g. Belland, Glazewski, & Richardson, 2011; Chiou,
+Hwang, & Tseng, 2009; Simons & Klein, 2007; Toth, Suthers, & Lesgold, 2002; Tsai, Hwang, Tsai, Hung, &
+Huang, 2012; Wong & Day, 2009) and computer-based virtual collaborative environments (e.g. Ketelhut
+& Nelson, 2010; Taasoobshirazi, Zuiker, Anderson, & Hickey, 2006). Eleven studies in this review investigate
+and provide further details about this inquiry activity (see Figure 3). Searching for information
+is mostly addressed as one activity – among others – that contributes to a problem-solving or inquiry
+process. Students are required to search different sources for information that may help them solve
+the problem at hand (e.g. Taasoobshirazi et al., 2006). Common sources are digital libraries (Butler &
+Lumpe, 2008; Tsai et al., 2012), links to relevant websites (Simons & Klein, 2007), school libraries (Wong
+& Day, 2009) and interactions with virtual characters like, e.g. computerised residents in multi-user
+virtual environments (Ketelhut & Nelson, 2010; Spires, Rowe, Mott, & Lester, 2011).
+There are, however, also studies that place specific emphasis on the search process and the underlying
+strategies. Here, two lines of research can be identified. The first line is related to scaffolding
+which should help students determine what information is needed, how to find this information and
+how to organise it (Belland et al., 2011; Butler & Lumpe, 2008; Simons & Klein, 2007). Butler and Lumpe
+(2008), e.g. analysed the use and effects of computer scaffolds. In a project-based science unit, searching
+features (i.e. how often do students perform a search, use the dictionary, use the thesaurus, read
+the website description or view the actual website) were investigated as one of the five scaffolding categories to result in a descriptive statistic of scaffold use. The authors found that students used the
+searching features more than half of the time and more often than any other scaffolding category.
+Moreover, a significant correlation between the use of the searching features and the student scores
+for self-efficacy for learning and performance was observed.
+The second line of research is related to the computer-assisted analysis of students’ search behaviour
+and their underlying problem-solving abilities (Chiou et al., 2009; Toth et al., 2002; Tsai et al., 2012). Toth
+et al. (2002), e.g. focused on the selection and evaluation of evidence from multiple sources. Students
+had to search hypertext-based, simplified research papers for hypotheses and data and establish links
+between them. The resulting information search measure was based on the number of topic-relevant
+pieces of information that had been recorded and how many of these had been labelled as data and
+hypotheses. The study compared two technology-based knowledge representation tools, evidence
+mapping and prose writing. The authors found that the mean number of labelled information pieces
+was significantly higher in the mapping groups than in the prose groups. The difference between
+treatment conditions was attributed not to students’ ability to categorise information into hypotheses
+and data, but to their explicit recognition of the necessity to do so. An automatic scoring mechanism
+to assist teachers in evaluating the web-based information-searching and problem-solving ability of
+individual students was developed and evaluated by Chiou et al. (2009). Their analysis of students’
+information-searching behaviour was based on the Big6 model: task definition, information-seeking
+strategies, location and access, use of information, synthesis and evaluation. A correlation analysis
+resulted in large positive correlations between teacher and automatic scores for all indicators except
+information-seeking strategies.
+In essence, the different studies focus either on the information or the search aspect of this inquiry
+activity. When focusing on the information aspect, students’ ability is often evaluated with regard to
+the degree to which the collected information contributes to the problem-solving or inquiry process.
+Other studies are interested either in investigating students’ search behaviour (e.g. by log files of computer-
+based learning environments) or in identifying means to scaffold and support students’ search
+process (e.g. by providing strategies to select, process and organise the contextually relevant information).
+Both lines of research often make use of ill-structured problems, collaborative learning environments
+and multiple resources (digital or traditional libraries, web quests, etc.) and focus mainly on describing
+the students’ search behaviour, while only little emphasis can be found with regard to the assessment
+of this activity (cf. Toth et al., 2002). ____Formulating hypotheses and generating predictions
+In total, students’ ability to formulate hypotheses or generate predictions is explicitly addressed in 25
+publications. Despite this large number of studies, only 13 studies disentangle this aspect of inquiry in
+detail (see Figure 3). In the other 12 studies, the formulation of hypotheses is mentioned as an important
+aspect of inquiry, but little detail is given about its function and operationalisation in the learning
+environment or the assessment.
+Regarding the definition, hypotheses are seen as the relation between input and output variables
+(Gijlers & de Jong, 2005). The main purpose of formulating hypotheses is often stated as to allow students 
+‘to learn and experience science with greater understanding and to practice their metacognitive
+abilities’ and to provide them ‘with the opportunity to construct their knowledge by actually doin g
+scientific work’ (Hofstein et al., 2005, p. 795). However, within the reviewed studies, students’ perspective
+on the function of generating hypotheses is seldom addressed. Herrenkohl, Palincsar, DeWater
+and Kawasaki (1999) asked students about the function of formulating this kind of predictions, but
+the coding of students’ answers was limited to decide whether these answers were at least at the level
+of guess or educated guess.
+Different formats are used to assess students’ ability to formulate hypotheses or generate predictions.
+These range from closed multiple-choice formats (Gobert, Pallant, & Daniels, 2010) to open-ended items
+(Furtak & Ruiz-Primo, 2008), students’ discourse (Gijlers & de Jong, 2005) and are part of conducting hands-on (Hofstein et al., 2005), computer-based (Ketelhut & Nelson, 2010) or thought experiments
+(Herrenkohl, Tasker, & White, 2011).
+Studies varied according to the evaluation of the quality of students’ hypotheses. If details were
+provided, most studies differentiated between hypotheses that are testable (i.e. correct hypothese s)
+and those that are not. With regard to students’ ability in formulating a testable hypothesis, Ebenezer
+et al. (2011) expect students to ‘be able to state a hypothesis that lends itself to testing. Also, the hypothesis
+should be accompanied by coherent explanation(s)’ (p. 103). A detailed taxonomy is provided by
+Kaberman and Dori (2009) who differentiated content (whether only the phenomenon at hand or a
+more general level was addressed), thinking level (according to Bloom’s taxonomy) and chemistry
+understanding levels (macroscopic, microscopic, symbolic and process levels). Findings suggest that
+both the number and the complexity of students’ hypotheses increased due to an intervention based
+on this framework (Kaberman & Dori, 2009).
+Several interventions have been suggested to promote students’ ability in formulating hypotheses.
+Spires et al. (2011) used a gameplay approach that required solving a science mystery based on microbiology
+content: ‘Results indicated that the effective exploration and navigation of the hypothesis
+space […] was predictive of student learning’ (Spires et al., 2011, p. 453). Using constructed response
+items, Lavoie (1999) examined the effects of adding a prediction or discussion phase where students
+individually wrote out predictions with explanatory hypotheses at the beginning of a learning cycle.
+By introducing this phase, the author intended to prompt students to construct and deconstruct their
+procedural and declarative knowledge. The evaluation of this intervention revealed significant gains
+with respect to process and logical thinking skills, the understanding of scientific concepts and students’
+attitudes towards science.
+Kyza (2009) examined students’ inquiry practices in considering alternative hypotheses. She analysed
+students’ discourse, actions, inquiry products and interactions with their teachers and peers. Despite
+significant learning gains when implementing a supportive learning environment (i.e. teacher- and
+task-based scaffolding), the author pointed out several epistemological problems related to students’
+perception of the usefulness of examining and communicating alternative explanations, i.e. by relying
+primarily on a verification strategy of hypothesis testing. Her findings indicate the importance of epistemologically
+targeted discourse alongside guided inquiry experiences for overcoming these challenges.
+Throughout the reviewed studies, formulating hypotheses is regarded as a core feature of scientific
+inquiry and as highly important to learn and experience science with greater understanding (cf. Hofstein
+et al., 2005). As mentioned above, however, few details about the function and operationalisation of
+formulating hypotheses in the learning process are provided. In addition, students’ perspectives on
+the function of generating hypotheses and the influence of their perception on the whole inquiry
+process are barely addressed. Kyza (2009) pointed out that students tend to rely primarily on a verification
+strategy of hypothesis testing, indicating epistemological constraints in students’ perception
+and interpretation of the role of hypotheses (and also alternative hypotheses) in the inquiry process.
+Across the studies, a large range of different formats is used to assess students’ abilities to formulate
+hypotheses (e.g. multiple choice, students’ discourse or thought experiments). However, in most
+cases, the evaluation is restricted to the decision whether the proposed hypothesis is testable or not.
+Likewise, approaches to promote students’ ability in formulating hypotheses are predominantly based
+on repeated practice while more detailed and focused instructional approaches (e.g. Kaberman & Dori,
+2009) are hard to find._______Planning, designing and carrying out investigations
+In total, 21 publications addressed the activity of planning, designing and carrying out investigations
+and again only the minority of papers (n = 7) pointed out details about what was expected from students
+regarding this scientific practice (see Figure 3). According to Ebenezer et al. (2011), designing and
+conducting scientific investigations means ‘that students should logically outline methods and procedures,
+use proper measuring equipment, heed safety precautions, and conduct a sufficient number of
+Downloaded byPlanning, designing and carrying out investigations
+In total, 21 publications addressed the activity of planning, designing and carrying out investigations
+and again only the minority of papers (n = 7) pointed out details about what was expected from students
+regarding this scientific practice (see Figure 3). According to Ebenezer et al. (2011), designing and
+conducting scientific investigations means ‘that students should logically outline methods and procedures,
+use proper measuring equipment, heed safety precautions, and conduct a sufficient number of

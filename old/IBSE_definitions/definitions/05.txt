@@ -1,0 +1,163 @@
+"It can be defined as a process of discovering new
+causal relations, with the learner formulating hypotheses and testing them by conducting experiments and/or making observations (Pedaste, Mäeots, Leijen, & Sarapuu, 2012). Often it is viewed as an approach to solving problems and involves the application of several problem solving skills (Pedaste & Sarapuu, 2006). Inquiry-based learning emphasizes active participation
+and learner’s responsibility for discovering knowledge that is new to the learner (de Jong & van Joolingen, 1998). In this process, students often carry out a self-directed, partly inductive and partly deductive learning process by doing experiments to investigate the relations for at least one set of dependent and independent variables (Wilhelm & Beishuizen, 2003). It should be added that in the context of this study we are focusing on learners: what is new knowledge to them is not, in most cases, new knowledge to the world, even if the approach can be flexibly used by scientists in making their discoveries of new knowledge. In addition, it should be noted that an investigation does not always involve empirical testing.___From a pedagogical perspective, the complex scientific process is divided into smaller, logically connected units that guide students and draw attention to important features of scientific thinking. These individual units are called inquiry phases, and their set of connections forms an inquiry cycle. The educational literature describes a variety of inquiry phases and cycles. For example, the 5E learning cycle model (Bybee et al., 2006) lists five inquiry phases: Engagement, Exploration, Explanation, Elaboration, and Evaluation.An inquiry cycle proposed by White and Frederiksen (1998) also identifies five inquiry phases, but labels them as Question, Predict, Experiment, Model, and Apply. An apparent distinction between these examples is that the initial phases of
+the 5E cycle (Engagement and Exploration) suggest starting with an inductive (empirical/data-driven) approach, whereas the first two phases of the White and Frederiksen inquiry cycle (Question and Predict) suggest a deductive (theory/hypothesisdriven) approach. However, both induction and deduction can coexist in an inquiry cycle. In fact, Klahr and Dunbar (1988)
+characterized the scientific reasoning process as a dual search in two spaces, which they call experiment space and hypothesis space. How researchers choose to balance inductive and deductive approaches in an inquiry cycle can influence the selection and/or arrangement of inquiry phases.___Inquiry cycles follow from a historical progression of instructional models and therefore represent a contemporary view
+that is built upon a solid historical foundation. Bybee et al. (2006) discussed the origins of the 5E instructional model and
+show that early frameworks began with defining a list of fundamental conceptual phases. For example, Dewey (1933) outlined
+several important aspects of inquiry-based learning, such as defining a problem, formulating a hypothesis, and conducting
+tests. Later frameworks elaborated on the interaction between phases, the sequencing of phases, modifications in terminology,
+and the necessity of particular phases. Bybee et al. emphasized that prior instructional models served as a foundation
+to build newer models. Therefore, many contemporary inquiry cycles implicitly reflect aspects of earlier frameworks such
+as the empirical cycle by de Groot (1969).
+The way an inquiry cycle is presented usually suggests an ordered sequence of phases. However, researchers are also
+usually careful to add a disclaimer that inquiry-based learning is not a prescribed, uniform linear process. Connections between
+the phases may vary depending on the context. In an inquiry cycle proposed by Justice et al. (2002), a single inquiry phase
+(Self-reflection/Self-evaluation) directly connects to all other phases. The authors argued that this particular inquiry phase,
+which encourages learner self-awareness, is needed at all inquiry phases. How inquiry phases are arranged in an inquiry
+cycle can depend on the nature of the phase. de Jong and Njoo (1992), for example, made a distinction between inquiry
+processes that directly generate or transform information (transformative processes) and processes that manage the learning
+process (regulative processes). As seen with the various terms applied for different inquiry phases, certain diversity also
+appears in understanding the relations and sequencing of the inquiry phases within inquiry cycles, for example, whether
+regulative processes are related to the whole, overarching inquiry-based learning or to each specific phase.___The analysis of the descriptions and the definitions of inquiry phases presented in the articles reviewed led to a new
+inquiry-based learning framework that includes five general inquiry phases (see Table 1 for definitions): Orientation, Conceptualization,
+Investigation, Conclusion, and Discussion. In general, this cycle is similar to several others; however, it uses
+terms that have been extracted as core terms from the articles found in this review, and it covers the processes behind most
+of the inquiry phases described in these articles. Further, it can be expected that this cycle also covers many inquiry-based
+learning frameworks that were not found in the current search and might therefore be compatible with teachers’ current
+understanding of inquiry-based learning and help to structure their teaching according to this framework of learners’ processes.
+For example, de Jong (2006b) also provided an inquiry cycle that consists of five general phases and a fewsub-phases.
+In hiswork, the general phaseswere Orientation, Hypothesis Generation, Experimentation, Drawing a Conclusion, and Making
+an Evaluation. Experimentation had sub-phases of experiment design, prediction, and data interpretation. In our new cycle,
+Conceptualization is broader than Hypothesis Generation as it also involves an additional sub-phase, Questioning. Investigation
+is broader and involves Exploration in addition to Experimentation and Data Interpretation. Discussion is broader
+than Making an Evaluation, including both Reflection (which contains description, critique, evaluation, and discussion in a
+narrowcontext of reflection, see Leijen et al., 2012) and Communication about findings. Other inquiry-based learning frameworks
+can similarly be seen as falling within the framework proposed in the current study. In order to enable that type of
+comparison, this section elaborates on the descriptions of phases and sub-phases of the newinquiry-based learning framework.
+Orientation focuses on stimulating interest and curiosity in relation to the problem at hand. During this phase the learning
+topic is introduced by the environment or given by the teacher or defined by the learner (Scanlon, Anastopoulou, Kerawalla,
+& Mulholland, 2011). The main variables of the domain are identified during the Orientation phase, and its outcome is a
+problem statement.
+Conceptualization is a process of understanding a concept or concepts belonging to the stated problem. It is divided into
+two sub-phases, Questioning and Hypothesis Generation. These sub-phases yield similar yet distinguishable outcomes: Questioning
+arrives at a research question or more open questions about a domain, while Hypothesis Generation arrives at a
+testable hypothesis. Both of these are based on theoretical justification and contain independent and dependent variables,
+but have one key difference – the hypothesized direction of the relation between variables given in the hypothesis is not
+present in the case of a research question (Mäeots et al., 2008). In general, hypothesizing is a formulation of a statement or
+a set of statements (de Jong, 2006a), while questioning is a formulation of investigable questions (White & Frederiksen, 1998).
+Thus, the outcomes of the Conceptualization phase are research questions or hypotheses to be investigated or both if first
+research questions are formulated and then hypotheses are generated based on these.
+Investigation is the phase where curiosity is turned into action in order to respond to the stated research questions
+or hypotheses (Scanlon et al., 2011). The sub-phases of Investigation are Exploration, Experimentation, and Data Interpretation. Students explore/observe, design different experiments by changing variable values, make predictions, and
+interpret outcomes (de Jong, 2006a; Lim, 2004; White & Frederiksen, 2005). In general, exploration is a systematic way of
+carrying out an investigation with the intention of finding a relation among the variables involved (Lim, 2004). In this case
+there is no need for stating a hypothesis, but careful planning is still needed in order to save resources (e.g., time, materials,
+money). However, experimentation concentrates on making and applying a strategic plan for the experiment with a
+specific timeline, and it naturally follows from the Hypothesis Generation phase. In this case evidence for testing a hypothesis
+will be collected and in planning the experiment the variables that should be kept constant or varied in conducting an
+experiment should be defined. Both Exploration and Experimentation involve the design and implementation of the investigative
+activities, and an intermediate outcome is the design or plan of the exploration or experiment. For example, if the
+domain requires specific equipment or materials to be used, the choice of the materials and equipment is part of the design
+developed during the Exploration or Experimentation phase. During Exploration and Experimentation data will be collected.
+The Data Interpretation sub-phase is focused on making meaning out of collected data and synthesis of new
+knowledge (Bruce & Casey, 2012; Justice et al., 2002; Lim, 2004; White & Frederiksen, 1998; Wilhelm &Walters, 2006). The
+final outcome of the Investigation phase is an interpretation of the data (a formulation of the relations between variables)
+that will permit returning to the original research question or hypothesis and drawing a conclusion regarding what was
+asked or hypothesized.
+Conclusion is the phase in which the basic conclusions of a study are stated (de Jong, 2006a). In this phase learners address
+their original research questions or hypotheses and consider whether these are answered or supported by the results of
+the study (Scanlon et al., 2011; White, Shimoda, & Frederiksen, 1999). It may lead to new theoretical insights. The outcome
+of the Conclusion phase is a final conclusion about the findings of inquiry-based learning, responding to the research questions
+or hypotheses.
+Discussion contains the sub-phases of Communication and Reflection. Communication can be seen as an external process
+where students present and communicate their findings and conclusions to others, and receive feedback and comments
+from others (see Scanlon et al., 2011) and sometimes listen to others and articulate one’s own understandings (Bruce & Casey,
+2012). Reflection is defined as the process of reflecting on anything in the learner’s mind, e.g., on the success of the inquiry
+process or cycle while proposing new problems for a new inquiry cycle and suggesting how the inquiry-based learning process
+could be improved (Lim, 2004; White & Frederiksen, 1998). It is mainly viewed as an internal process (What did I do? Why
+did I do so? Did I do well? What are the other options in a similar situation?). Within this process, several activities, such
+as role-play, writing a diary or narrative, and guiding questions, can be distinguished as support for this (Runnel, Pedaste,
+& Leijen, 2013), and these can help students’ reflections to reach specific levels of quality: description, justification, critique,
+and discussion (Leijen et al., 2012). Thus, reflection is often more focused on the inquiry-based learning process and
+communication on domain-related outcomes of this process. Both Discussion sub-phases can be seen as occurring at two
+possible levels: (1) communicating or reflecting on the whole process at the end of the inquiry-based learning or (2) in relation
+to a single phase in the cycle.____Based on the overview of the proposed inquiry phases and sub-phases and their definitions, an inquiry-based
+learning framework was developed (see Fig. 3). The arrows in Fig. 3 demonstrate different pathways through the
+framework. Although the cycle often (in 13 articles out of 32 reviewed in our study) starts with Orientation, it displays
+flexibility in the pathways that can be followed. Three possible inquiry cycles can be traced by following the arrows: (a)
+Orientation–Questioning–Exploration–Data Interpretation (possibility in the cycle to go back to Questioning)–Conclusion;
+(b) Orientation–Hypothesis Generation–Experimentation–Data Interpretation (possibility in the cycle to go back to Hypothesis
+Generation)–Conclusion; and (c) Orientation–Questioning–Hypothesis Generation–Experimentation–Data Interpretation
+(possibility in the cycle to go back to Questioning or Hypothesis Generation)–Conclusion. Even more flexibility can be created
+by linking the framework with design-based research (Barab & Squire, 2004). In this case the research could start in the
+Conceptualization phase and have several short cycles between the Conceptualization phase and the Investigation phase.
+However, for design-based research the investigation phase should not test a model or theory under development but different
+features of the naturalistic environment where the theory/model should work. After collecting ‘background information’
+the learner (or researcher) could turn back to the Conceptualization phase to test the model/theory in mind. If, after several
+loops, the ‘notional test’ is successful, then the theory or model itself could be tested.
+The Discussion phase can be seen as a set of processes that are “optional” for the inquiry cycle, because for an individual learner,
+inquiry-based learning outcomes can often be arrived at without any Communication or Reflection. However, the quality of the
+whole inquiry-based learning and its related learning gains can depend on the discussions during each inquiry phase and/or after
+completing all of the other phases. Several authors have included Discussion as a culminating inquiry phase (Bruce & Casey, 2012;
+Conole, Scanlon, Littleton, Kerawalla, & Mulholland, 2010; Valanides & Angeli, 2008), while others consider Conclusion as the
+final stage of an inquiry cycle (de Jong & van Joolingen, 2008; National Research Council, 1996; Tatar, 2012).
+Based on our framework we recommend starting the inquiry-based learning process with Orientation, where students
+not only get an idea about the topic to be investigated but are also introduced to the problem to be solved. If students’ curiosity
+is already raised from previous studies or interests, this phase is often not needed (which is especially the case with researchers doing research). In the following step, students have different possibilities for forming the key concept to be
+studied in the inquiry-based learning process: hypothesis-driven approach or question-driven approach. If the students have
+no specific idea and only a general plan of what to explore, they should start from more open question(s) that guide them
+to the exploration of a phenomenon (data-driven approach, pathway ‘a’). In this case, it is expected that students will return
+to the Conceptualization phase if they have specified, revised or derived new ideas from the Exploration phase or data gathered,
+but they can also move directly from Exploration to Data Interpretation and Conclusion. If the students have a more
+specific, often theory-based idea about what to investigate, then a hypothesis-driven approach is suitable (‘b’). A slight deviation
+from the latter could be the question-driven approach, where students have a question and their next goal is to collect
+background information for stating a specific hypothesis as a possible answer to the question (‘c’). In conclusion, the three
+suggested but not the only possible pathways are the following:
+(a) Orientation–Questioning–Exploration–Questioning–Exploration–Data Interpretation–Conclusion (the loop between
+Questioning and Exploration can be repeated several times, but it is also possible to move directly from the first Exploration
+to Data Interpretation; Communication and Reflection can be added to every phase);
+(b) Orientation–Hypothesis Generation–Experimentation–Data Interpretation–Hypothesis Generation–Experimentation–
+Data Interpretation–Conclusion (the loop between Hypothesis Generation–Experimentation–Data Interpretation can
+be repeated several times, but it is also possible to move directly from the first Data Interpretation to Conclusion;
+Communication and Reflection can be added to every phase);
+(c) Orientation–Questioning–Hypothesis Generation–Experimentation–Data Interpretation–(Questioning) Hypothesis
+Generation–Experimentation–Data Interpretation–Conclusion (the loop between Hypothesis Generation–
+Experimentation–Data Interpretation can be repeated several times, but it is also possible to move directly from the
+first Data Interpretation to Conclusion; after Data Interpretation it might be necessary to revise Questions, but more
+often only Hypotheses are revised; Communication and Reflection can be added to every phase).
+The pathway in the Investigation phase depends primarily on the actions taken during the Conceptualization phase. The Questioning
+sub-phase can precede the Hypothesis Generation and/or the Exploration sub-phases. In both Exploration and Experimentation, planning is an important activity to avoid inappropriate use of resources, such as time, materials, and
+money. Data Interpretation is the next step after either the Exploration or Experimentation sub-phases where data are
+collected. Here students analyze data according to a specific strategy and method planned in the Exploration or
+Experimentation sub-phases and make their first interpretations of the data. From Data Interpretation, it is possible to move
+forward to the Conclusion phase or go back to the Conceptualization phase to revise existing or define new questions or
+hypotheses, which makes inquiry-based learning a cyclical process. If some issues have been discovered in Exploration or Experimentation,
+it might be a good idea to turn back to change the plan or experiment design made in a particular sub-phase
+without changing research questions or hypotheses. If a student collected enough data for confirming his or her hypothesis or
+for answering the stated question(s), then he or she may proceed to the next phase for stating final conclusions. These are stated
+in the Conclusion phase, where the outcomes of the Investigation phase are compared with the output of the Conceptualization
+phase. In case the data-collection was not as successful as planned (according to the findings in the Data Interpretation subphase),
+the student can go back to the Conceptualization phase to re-state a question or hypothesis, which serves as new input
+for the Investigation phase. In this case, the results of Data Interpretation serve the student as new theoretical knowledge for
+him/her to formulate questions or hypotheses. However, going back to the Conceptualization phase is not only a consequence of
+insufficient or disconfirming data. Moving back may also be in response to new ideas that arise out of the collected data during
+interpretation. Thus, inquiry-based learning can be seen as cyclical on multiple levels, and it is evident how the pathways described
+in this synthesis can form different inquiry cycles. In addition, the starting point of the cycle can be flexibly varied. For
+example, one might start from Exploration of a phenomenon and later move to Conceptualization to formulate meaningful
+hypotheses.
+In all phases from Orientation to Conclusion, the processes of the Discussion phase are also possible. The Discussion phase
+is here defined fromlearners’ perspective in the inquiry-based learning context. Both Communication and Reflection can be
+seen as on-going processes, which help students receive feedback about their learning process by sharing their domainrelated
+outcomes and process-related ideas with others. This means direct communication among peer students, teacher,
+etc. However, it could also involve guided monitoring of students’ learning process by using reflection activities. In this context,
+discussion can be seen as a process supporting meta-cognition or regulative processes of inquiry learning as proposed by de
+Jong and Njoo (1992). Two types of reflection can be distinguished (Schön, 1987): (a) reflection-in-action, where the students
+evaluate their study process while conducting the activities of a specific phase and collect particular information for this
+while planning and monitoring learning activities or (b) reflection-on-action, where the students evaluate their study process
+after completing the whole inquiry cycle. In both cases, students use the results of their reflection to revise the activities
+engaged in during specific phases (e.g., re-stating their research question) or as an input for a new inquiry cycle. Therefore,
+it follows that the effect of one’s reflection on the success of inquiry phases or the improvement of inquiry skills is strongly
+related to the quality of the reflection. Similarly, Communication can be viewed as ‘in-action’ communication or
+‘on-action’ communication, i.e. it is either part of an inquiry phase or performed as a separate activity at the end of the
+inquiry cycle."

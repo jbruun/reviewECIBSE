@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_n_words" for="node" attr.name="n_words" attr.type="double"/>
+  <key id="v_fastgreedy" for="node" attr.name="fastgreedy" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">1;child;engage;explore</data>
+      <data key="v_id">1;child;engage;explore</data>
+      <data key="v_n_words">180</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">2;world;principle;parallel</data>
+      <data key="v_id">2;world;principle;parallel</data>
+      <data key="v_n_words">96</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">3;picture;1;show</data>
+      <data key="v_id">3;picture;1;show</data>
+      <data key="v_n_words">85</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">4;eg;see;figure</data>
+      <data key="v_id">4;eg;see;figure</data>
+      <data key="v_n_words">101</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">5;force;motionphysics;element</data>
+      <data key="v_id">5;force;motionphysics;element</data>
+      <data key="v_n_words">56</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">6;need;plant;infer</data>
+      <data key="v_id">6;need;plant;infer</data>
+      <data key="v_n_words">141</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">7;water;evaporating;glass</data>
+      <data key="v_id">7;water;evaporating;glass</data>
+      <data key="v_n_words">59</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">8;project;snail;day</data>
+      <data key="v_id">8;project;snail;day</data>
+      <data key="v_n_words">79</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">9;activity;different;type</data>
+      <data key="v_id">9;activity;different;type</data>
+      <data key="v_n_words">125</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">10;lesson;focus;curriculum</data>
+      <data key="v_id">10;lesson;focus;curriculum</data>
+      <data key="v_n_words">104</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">11;say;well;example_child</data>
+      <data key="v_id">11;say;well;example_child</data>
+      <data key="v_n_words">61</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">12;around;2;playground</data>
+      <data key="v_id">12;around;2;playground</data>
+      <data key="v_n_words">96</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">14;nest;bird;studychild</data>
+      <data key="v_id">14;nest;bird;studychild</data>
+      <data key="v_n_words">137</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">15;question;teacher;ask</data>
+      <data key="v_id">15;question;teacher;ask</data>
+      <data key="v_n_words">108</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">16;hypothesis;test;problem</data>
+      <data key="v_id">16;hypothesis;test;problem</data>
+      <data key="v_n_words">63</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">17;use;energy;class</data>
+      <data key="v_id">17;use;energy;class</data>
+      <data key="v_n_words">85</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">18;sink;float;topic</data>
+      <data key="v_id">18;sink;float;topic</data>
+      <data key="v_n_words">44</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">19;way;home;cycle</data>
+      <data key="v_id">19;way;home;cycle</data>
+      <data key="v_n_words">29</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">20;disperse;seed;study</data>
+      <data key="v_id">20;disperse;seed;study</data>
+      <data key="v_n_words">37</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">21;paint;green;yellow</data>
+      <data key="v_id">21;paint;green;yellow</data>
+      <data key="v_n_words">25</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">22;hard;smooth;feeling</data>
+      <data key="v_id">22;hard;smooth;feeling</data>
+      <data key="v_n_words">19</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">23;gases;liquid;keep</data>
+      <data key="v_id">23;gases;liquid;keep</data>
+      <data key="v_n_words">11</data>
+      <data key="v_fastgreedy">1</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">24;low;intently;staring</data>
+      <data key="v_id">24;low;intently;staring</data>
+      <data key="v_n_words">20</data>
+      <data key="v_fastgreedy">2</data>
+    </node>
+    <edge source="n0" target="n5">
+      <data key="e_weight">21</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n3" target="n0">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n5" target="n15">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n6" target="n13">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n7" target="n0">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n8" target="n0">
+      <data key="e_weight">19</data>
+    </edge>
+    <edge source="n9" target="n5">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n10" target="n5">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n11" target="n0">
+      <data key="e_weight">15</data>
+    </edge>
+    <edge source="n12" target="n5">
+      <data key="e_weight">22</data>
+    </edge>
+    <edge source="n13" target="n5">
+      <data key="e_weight">22</data>
+    </edge>
+    <edge source="n14" target="n5">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n15" target="n5">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n16" target="n5">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n17" target="n12">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n18" target="n5">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n19" target="n0">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n19" target="n2">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n19" target="n5">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n19" target="n15">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n20" target="n12">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n21" target="n5">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n22" target="n0">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n22" target="n3">
+      <data key="e_weight">2</data>
+    </edge>
+  </graph>
+</graphml>

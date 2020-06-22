@@ -1,0 +1,120 @@
+"Looking at the conceptualisations of scientific inquiry found in the literature, two main dimensions
+.of inquiry-based teaching can be distinguished: the type and range of activities that students
+engage in (e.g. Abd El Khalick et al., 2004; National Research Council, 2000) and the degree of guidance
+provided by the teacher (e.g. Furtak et al., 2012). Empirical studies investigating the effectiveness of
+scientific inquiry may vary considerably along these two dimensions.___In order to do so, a framework for inquiry-based teaching and learning in science is used that conceptualises
+scientific inquiry as a process consisting of activities that students conduct and the underlying
+competences that these activities require, respectively (e.g. Bell, Urhahne, Schanze, & Ploetzner, 2010;
+Linn, Davis, & Bell, 2004; National Research Council, 1996, 2000, 2012; Pedaste et al., 2015).___The model used in the analyses presented in this review is a synthesis of existing activity-based
+conceptualisations of scientific inquiry in the literature (Abd El Khalick et al., 2004; Bell et al., 2010;
+Bybee et al., 2006; Linn et al., 2004; Mullis, Martin, Ruddock, O’Sullivan, & Preuschoff, 2009; National
+Research Council, 1996, 2000, 2012; Pedaste et al., 2015; White & Frederiksen, 1998). It distinguishes
+nine activities: 1. Identifying questions, 2. Searching for information, 3. Formulating hypotheses and
+generating predictions, 4. Planning, designing and carrying out investigations, 5. Analysing, interpreting and evaluating data, 6. Developing explanations, 7. Constructing models, 8. Engaging in argumentation
+and reasoning and 9. Communicating. In line with earlier models, no fixed chronological order is implied
+and the activities might overlap and interconnect. ___In summary, all studies focus on students’ ability to identify or raise research questions, mainly by
+means of open-ended formats or portfolios. To evaluate the quality of these questions, different characteristics
+are used, e.g. the need for research questions to be testable (Chang et al., 2011; Ebenezer
+et al., 2011), their potential to advance understanding (Cavagnetto et al., 2010) or the application of
+science concepts in the generation of research questions (Samarapungavan et al., 2011). However, no
+study focuses on the question how the assessment format impacts the evaluation of students’ abilities
+to identify and raise research questions and whether there is a preferable format when focusing on
+specific aspects of this activity. Few studies address fostering students’ abilities in identifying research
+questions. Moreover, these studies focus entirely on an immersion approach of participating in inquirytype
+laboratory activities or research-like projects. Hence, apart from repeated practice, little is known
+about instructional activities to develop students’ ability to identify research questions, in general, as
+well as with regard to the different characteristics of this inquiry activity.___In essence, the different studies focus either on the information or the search aspect of this inquiry
+activity. When focusing on the information aspect, students’ ability is often evaluated with regard to
+the degree to which the collected information contributes to the problem-solving or inquiry process.
+Other studies are interested either in investigating students’ search behaviour (e.g. by log files of computer-
+based learning environments) or in identifying means to scaffold and support students’ search
+process (e.g. by providing strategies to select, process and organise the contextually relevant information).
+Both lines of research often make use of ill-structured problems, collaborative learning environments
+and multiple resources (digital or traditional libraries, web quests, etc.) and focus mainly on describing
+the students’ search behaviour, while only little emphasis can be found with regard to the assessment
+of this activity (cf. Toth et al., 2002).___Throughout the reviewed studies, formulating hypotheses is regarded as a core feature of scientific
+inquiry and as highly important to learn and experience science with greater understanding (cf. Hofstein
+et al., 2005). As mentioned above, however, few details about the function and operationalisation of
+formulating hypotheses in the learning process are provided. In addition, students’ perspectives on
+the function of generating hypotheses and the influence of their perception on the whole inquiry
+process are barely addressed. Kyza (2009) pointed out that students tend to rely primarily on a verification
+strategy of hypothesis testing, indicating epistemological constraints in students’ perception
+and interpretation of the role of hypotheses (and also alternative hypotheses) in the inquiry process.
+Across the studies, a large range of different formats is used to assess students’ abilities to formulate
+hypotheses (e.g. multiple choice, students’ discourse or thought experiments). However, in most
+cases, the evaluation is restricted to the decision whether the proposed hypothesis is testable or not.
+Likewise, approaches to promote students’ ability in formulating hypotheses are predominantly based
+on repeated practice while more detailed and focused instructional approaches (e.g. Kaberman & Dori,
+2009) are hard to find.___Regarding possibilities to foster students’ abilities in designing and conducting experiments, White
+and Frederiksen (1998) investigated the effect of reflective assessment on inquiry units. Overall students’
+performance improved significantly and a controlled comparison revealed that students’ learning
+was greatly facilitated by reflective assessment. Interestingly, adding this metacognitive process to
+the curriculum was particularly beneficial for low-achieving students: performance in their research
+projects and inquiry tests was significantly closer to that of high-achieving students than was the case
+in the control classes.
+As in the case of studies on students’ ability to formulate hypotheses, only the minority of studies
+reviewed with regard to investigating students’ planning, designing and carrying out of experiments
+provide details about the expected outcome. Three main lines are identified in these investigations:
+students are asked to design an investigation, to manipulate a given set-up or to interpret a set-up
+designed by others. Within these approaches, different modes are used in which students’ ability is
+assessed: hands-on, virtual and theoretical. While designing an experiment is assessed in the full range
+of different modes, manipulating a given set-up is mostly investigated in virtual environments and
+interpreting a set-up designed by others mainly in written form. In summary, the impact of both the
+approach and the mode on the obtained results remains difficult to evaluate. Consequently, the degree
+to which results obtained in different settings are comparable remains unclear (cf. Stecher et al., 2000).
+With regard to fostering students’ ability in this inquiry activity, most studies seem to automatically
+entail aspects of scaffolding and guidance, e.g. by providing students with predefined guidelines or
+preselected designs and materials. The degrees of openness and scaffolding, however, vary widely. ___Across all publications, students are predominantly required to conduct
+hands-on analyses of self-collected data while the evaluation of a given analysis or the self-evaluation
+of one’s ability is mainly assessed in computer-based or written form. However, again, few studies provide
+details about the steps required to collect data that can be interpreted in a scientific way. Regarding the
+evaluation of students’ ability to analyse and interpret data, students’ controlling of variables and the
+systematics of comparisons between cases are the main features. On a more epistemological level, Vellom and Anderson (1999) asked students about standards to assure the quality of the data collection and
+analysis. These aspects of standards and good scientific practice are not addressed in any other study
+included in this review.
+With the aim to foster students’ ability to analyse and interpret data, most approaches focus on means
+to support students in incorporating contextually relevant theories or students’ hypotheses into the
+process of analysing and interpreting the data, i.e. in linking back the analysis to previous steps in the
+inquiry process. Here, the use of evidence maps and reflective assessment has proven fruitful (Toth et al.,
+2002). However, students in the different studies are rarely confronted with conflicting evidence or with
+complex methods in the data analysis, indicating that the outcome space of experiments or provided
+data-sets is mainly controlled to focus on clean, clear-cut and well-structured results.___In summary, various definitions are used in the context of analysing students’ development of explanations,
+partly having similarities to definitions used in the field of argumentation or the construction
+of models. Consequently, the aim of the analysis also varies with regard to the underlying function of
+the explanation, i.e. to persuade others or to elaborate on one’s understanding. Studies with an explicit
+focus on explanations often separate content and structure of explanations in the analyses while studies
+related to argumentation mainly focus on the structural aspects of the explanation. Regarding the format
+of assessment, students’ discourse and written answers to open-ended questions are the dominant
+data sources in the analyses. With respect to instructional approaches to foster the quality of students’
+explanations, several studies suggest prompting students to incorporate structural features into their
+explanations, e.g. by providing groundings or evidence for arguments and claims.___In contrast to most other inquiry activities, almost all reviewed studies with a focus on students’
+construction of models provide details about the understanding of the construct underlying their
+investigation. Across the studies, both real models and mental models are addressed, albeit with different
+aims. While real models are used in the context of complex systems or to emphasise the difference
+between inference and observation (Akerson & Donnelly, 2010), mental models are used in the context
+of scientific reasoning (e.g. Herrenkohl et al., 1999; White & Frederiksen, 1998), often with a focus on
+specific activities, e.g. making predictions or illustrating the relation between different types of variables.
+Regardless of the type of model, mainly paper and pencil tests with multiple-choice, constructed
+response or open-ended items are used to assess students’ abilities in the activity of constructing
+models. To support students in constructing models, most studies advocate emphasising modelling
+in general or different aspects of modelling in the learning environment.___Overall, four major aims are identified in the studies investigating argumentation: analysing student
+argumentation in a survey-like manner, analysing the effects of teachers’ instructional practices
+or instructional interventions on student argumentation and the evaluations of specific assessment
+methods designed to assess reasoning and argumentation. Regarding assessment formats, the analysis
+of video- or audiotaped material, of written products (notebooks, online discussions, etc.) and written
+or computer-based tests (multiple choice or constructed response) is used almost equally frequent in
+the different studies.___In summary, most studies regard communication as a means to either better understand scientific
+concepts and procedures or to participate in a scientific community. Unlike the inquiry activities
+reviewed so far, it is considered an overarching ability that is not restricted to a specific stage of the inquiry process. Similar to argumentation, communication is mostly analysed with a predominant focus
+on the structure and interaction in the communication process or with an emphasis on the quality of
+this interaction. In the former case, the analysis is often conducted in the context of argumentation
+and explanation, indicating an overlap in both theoretical conceptions and empirical investigations
+regarding these three inquiry activities.
+Few studies try to foster students’ communication skills by scaffolding or structuring the ways in
+which students articulate their understanding (Berland & Reiser, 2009), by computer-based scaffolds
+(Ebenezer et al., 2011) or by reflective assessment (White & Frederiksen, 1998). However, the baseline
+of empirical results regarding students’ communication skills is that students often reach lower proficiency
+values for communication in comparison to other inquiry activities (Ebenezer et al., 2011) and
+these values are often far from the maximum score (Ruiz-Primo et al., 2004). Regarding assessment,
+mainly video transcripts (e.g. to code conversational turns) and written material (e.g. research papers,
+constructed response items, notebooks or portfolios) are used.

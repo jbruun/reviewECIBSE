@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">cartoon</data>
+      <data key="v_id">cartoon</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">captions</data>
+      <data key="v_id">captions</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">encountered</data>
+      <data key="v_id">encountered</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">people</data>
+      <data key="v_id">people</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">television</data>
+      <data key="v_id">television</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">cuddly</data>
+      <data key="v_id">cuddly</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">entity</data>
+      <data key="v_id">entity</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">bedroom</data>
+      <data key="v_id">bedroom</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">bedtime</data>
+      <data key="v_id">bedtime</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

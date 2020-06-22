@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_n_words" for="node" attr.name="n_words" attr.type="double"/>
+  <key id="v_internallinks" for="node" attr.name="internallinks" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">1;13;knowledge;form;discourse;16;skill;process;communicate;6;problem;solve;include</data>
+      <data key="v_id">1;13;knowledge;form;discourse;16;skill;process;communicate;6;problem;solve;include</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">78</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">2;7;experience;authentic;phenomenon;3;explore;child;focus;4;primary;education;context</data>
+      <data key="v_id">2;7;experience;authentic;phenomenon;3;explore;child;focus;4;primary;education;context</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">72</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">3;11;involve;investigate;open;12;student;place;take;NA</data>
+      <data key="v_id">3;11;involve;investigate;open;12;student;place;take;NA</data>
+      <data key="v_n_words">2</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">27</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n1" target="n0">
+      <data key="e_weight">13</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

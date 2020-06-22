@@ -1,0 +1,20 @@
+Id,Label,timeset,v_name,v_id,v_n_words,v_fastgreedy,modularity_class,module names
+n0,Development,,2;develop;concept;point,2;develop;concept;point,85,1,0,Development
+n1,Young child explores,,3;explore;child;focus,3;explore;child;focus,150,4,0,Young child explores
+n2,Experiential education,,4;primary;education;context,4;primary;education;context,113,4,0,Experiential education
+n3,Ask questions,,5;observation;interpret;question,5;observation;interpret;question,110,5,1,Ask questions
+n4,Problem solving,,6;problem;solve;include,6;problem;solve;include,96,3,1,Problem solving
+n5,Experiential pedagogy,,7;experience;authentic;phenomenon,7;experience;authentic;phenomenon,104,2,0,Experiential pedagogy
+n6,World around and materials,,8;world;around;material,8;world;around;material,84,4,0,World around and materials
+n7,Lesson plan,,9;adult;kindergartener;like,9;adult;kindergartener;like,86,3,1,Lesson plan
+n8,Reflect and discuss,,10;reflect;naïve;strong,10;reflect;naïve;strong,45,4,0,Reflect and discuss
+n9,Open ended investigation,,11;involve;investigate;open,11;involve;investigate;open,61,1,2,Open ended investigation
+n10,Allow student expressiveness,,12;student;place;take,12;student;place;take,84,1,2,Allow student expressiveness
+n11,Previous and new knowledge,,13;knowledge;form;discourse,13;knowledge;form;discourse,107,2,1,Previous and new knowledge
+n12,Instructing model and evidence,,14;model;use;evidence,14;model;use;evidence,113,5,1,Instructing model and evidence
+n13,Transdisciplinary practice,,15;tool;design;intent,15;tool;design;intent,55,2,0,Transdisciplinary practice
+n14,Process skill,,16;skill;process;communicate,16;skill;process;communicate,102,3,1,Process skill
+n15,Child centred approach,,17;state;position;united,17;state;position;united,28,2,0,Child centred approach
+n16,Share critique in classroom community,,18;goal;community;classroom,18;goal;community;classroom,49,2,1,Share critique in classroom community
+n17,Influences on mental function,,19;function;operation;influence,19;function;operation;influence,21,3,1,Influences on mental function
+n18,Inquiry not linear,,20;phrase;bybee2014;linear,20;phrase;bybee2014;linear,22,1,1,Inquiry not linear

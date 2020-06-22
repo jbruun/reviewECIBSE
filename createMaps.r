@@ -91,7 +91,7 @@ V(mapEBB)$n_words<-V(mapEmpirical)$n_words
 mapEBB<-decompose.graph(mapEBB)[[1]]
 fgMEBB<-fastgreedy.community(as.undirected(mapEBB))
 V(mapEBB)$fastgreedy<-fgMEBB$membership
-write.graph(mapEBB,"mapEBB21062020.graphml",format="graphml")
+write.graph(mapEBB,"mapEBB28052020.graphml",format="graphml")
 
 mapTheoreticalrem<-delete.vertices(mapTheoretical,1)
 mapTremBB<-backboneNetwork(mapTheoreticalrem,0.005,1)

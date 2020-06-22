@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+    </node>
+    <node id="n1">
+    </node>
+    <node id="n2">
+    </node>
+    <node id="n3">
+    </node>
+    <node id="n4">
+    </node>
+    <node id="n5">
+    </node>
+    <node id="n6">
+    </node>
+    <node id="n7">
+    </node>
+    <node id="n8">
+    </node>
+    <node id="n9">
+    </node>
+    <node id="n10">
+    </node>
+    <node id="n11">
+    </node>
+    <node id="n12">
+    </node>
+    <node id="n13">
+    </node>
+    <node id="n14">
+    </node>
+    <node id="n15">
+    </node>
+    <node id="n16">
+    </node>
+    <node id="n17">
+    </node>
+    <node id="n18">
+    </node>
+    <node id="n19">
+    </node>
+    <node id="n20">
+    </node>
+    <node id="n21">
+    </node>
+    <node id="n22">
+    </node>
+    <node id="n23">
+    </node>
+    <node id="n24">
+    </node>
+    <node id="n25">
+    </node>
+    <node id="n26">
+    </node>
+    <node id="n27">
+    </node>
+    <node id="n28">
+    </node>
+    <node id="n29">
+    </node>
+    <node id="n30">
+    </node>
+    <node id="n31">
+    </node>
+    <node id="n32">
+    </node>
+    <node id="n33">
+    </node>
+    <node id="n34">
+    </node>
+    <edge source="n12" target="n27">
+      <data key="e_weight">0.1838683671218</data>
+    </edge>
+    <edge source="n13" target="n33">
+      <data key="e_weight">0.0172701112409966</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_weight">0.0617402958105737</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_modulename" for="node" attr.name="modulename" attr.type="string"/>
+  <key id="v_n_words" for="node" attr.name="n_words" attr.type="double"/>
+  <key id="v_internallinks" for="node" attr.name="internallinks" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_modulename">phase;think;structure;thinking;language;relation;environment;level;critical;project</data>
+      <data key="v_n_words">135</data>
+      <data key="v_internallinks">201</data>
+      <data key="v_id">phase;think;structure;thinking;language;relation;environment;level;critical;project</data>
+    </node>
+    <node id="n1">
+      <data key="v_modulename">kindergartener;set;work;time;give;opportunity;adult;effect;class;examine</data>
+      <data key="v_n_words">138</data>
+      <data key="v_internallinks">197</data>
+      <data key="v_id">kindergartener;set;work;time;give;opportunity;adult;effect;class;examine</data>
+    </node>
+    <node id="n2">
+      <data key="v_modulename">meaning;context;situation;dewey;refer;part;suggest;element;broad;recognise</data>
+      <data key="v_n_words">89</data>
+      <data key="v_internallinks">112</data>
+      <data key="v_id">meaning;context;situation;dewey;refer;part;suggest;element;broad;recognise</data>
+    </node>
+    <node id="n3">
+      <data key="v_modulename">problem;cognitive;solve;create;key;challenge;solution;discover;path;arise</data>
+      <data key="v_n_words">98</data>
+      <data key="v_internallinks">139</data>
+      <data key="v_id">problem;cognitive;solve;create;key;challenge;solution;discover;path;arise</data>
+    </node>
+    <node id="n4">
+      <data key="v_modulename">built;extend;upon;move;actual;beyond;bring;matter;chance;serve</data>
+      <data key="v_n_words">44</data>
+      <data key="v_internallinks">50</data>
+      <data key="v_id">built;extend;upon;move;actual;beyond;bring;matter;chance;serve</data>
+    </node>
+    <node id="n5">
+      <data key="v_modulename">object;different;task;state;will;well;according;across;feature;made</data>
+      <data key="v_n_words">120</data>
+      <data key="v_internallinks">170</data>
+      <data key="v_id">object;different;task;state;will;well;according;across;feature;made</data>
+    </node>
+    <node id="n6">
+      <data key="v_modulename">others;hand;dialogue;articulate;misconceptions;current;component;nrc1996;opinions;persistent</data>
+      <data key="v_n_words">29</data>
+      <data key="v_internallinks">29</data>
+      <data key="v_id">others;hand;dialogue;articulate;misconceptions;current;component;nrc1996;opinions;persistent</data>
+    </node>
+    <node id="n7">
+      <data key="v_modulename">strong;great;complexity;realism;naïve;human;depict;depth;power;NA</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">11</data>
+      <data key="v_id">strong;great;complexity;realism;naïve;human;depict;depth;power;NA</data>
+    </node>
+    <node id="n8">
+      <data key="v_modulename">wood;practical;aesthetic;viability;piece;logs;ditch;soundness;climbing;NA</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+      <data key="v_id">wood;practical;aesthetic;viability;piece;logs;ditch;soundness;climbing;NA</data>
+    </node>
+    <node id="n9">
+      <data key="v_modulename">consistent;duschl2008;continuum;ee;evidenceexplanation;p20;trend;NA;NA;NA</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+      <data key="v_id">consistent;duschl2008;continuum;ee;evidenceexplanation;p20;trend;NA;NA;NA</data>
+    </node>
+    <node id="n10">
+      <data key="v_modulename">promote;lamainalapates;sarmantetal2011;saltiel2006;exa;lamainalapates2000;hodson2014;NA;NA;NA</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+      <data key="v_id">promote;lamainalapates;sarmantetal2011;saltiel2006;exa;lamainalapates2000;hodson2014;NA;NA;NA</data>
+    </node>
+    <node id="n11">
+      <data key="v_modulename">sole;complete;characterization;rigid;NA;NA;NA;NA;NA;NA</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+      <data key="v_id">sole;complete;characterization;rigid;NA;NA;NA;NA;NA;NA</data>
+    </node>
+    <node id="n12">
+      <data key="v_modulename">savery2006;fielding2012;gordon2009;breunig2013;NA;NA;NA;NA;NA;NA</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">5</data>
+      <data key="v_id">savery2006;fielding2012;gordon2009;breunig2013;NA;NA;NA;NA;NA;NA</data>
+    </node>
+    <node id="n13">
+      <data key="v_modulename">spate;heavy;playground;paved;NA;NA;NA;NA;NA;NA</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+      <data key="v_id">spate;heavy;playground;paved;NA;NA;NA;NA;NA;NA</data>
+    </node>
+    <node id="n14">
+      <data key="v_modulename">iap2010p19;partnership;interacademy;NA;NA;NA;NA;NA;NA;NA</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+      <data key="v_id">iap2010p19;partnership;interacademy;NA;NA;NA;NA;NA;NA;NA</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n0">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n0">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n3" target="n2">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n4" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n4" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n3">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n5" target="n0">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_weight">17</data>
+    </edge>
+    <edge source="n5" target="n2">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n5" target="n3">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n5" target="n4">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n0">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n6" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n6" target="n3">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n5">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n7" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n3">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n8" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

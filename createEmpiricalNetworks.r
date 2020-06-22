@@ -879,7 +879,7 @@ allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<p
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<prints\\>)", replacement="print")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<previously\\>|\\<prior\\>)", replacement="previous")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<immediately\\|\\<promptly\\>>)", replacement="immediate")
-allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<pupils>\\)", replacement="pupil")
+allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<pupils\\)", replacement="pupil")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<reasoning\\>)", replacement="thinking")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<schoolyard\\>)", replacement="playground")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<sciencey\\>)", replacement="sciencelike")
