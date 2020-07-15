@@ -1,6 +1,7 @@
 #run createTheoreticalNetworks.R and createEmpiricalNetworks.r first
 #you should have an object called: allNetTheoretical and an object called allNetEmpirical
 #These are graph objects, weighted and directed
+#The script creates maps and graphs and write them to graphml files. These may be viewed in software Gephi.
 
 ##create bacbone versions of the graphs
 source("R_scripts/backboneExtraction.r")
