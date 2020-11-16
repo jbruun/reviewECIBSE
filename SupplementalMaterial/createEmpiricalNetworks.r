@@ -1,14 +1,21 @@
+#This script creates a lingusitic network based on the empirical texts corpus
+#It will write a comma separated variables file called "listNodesEmpirical.csv" to the working directory
+#The end product is allNetEmpirical to be used in furher analyses.
 
+#First load necessary packages
 library(tm)
 library(igraph)
-library(ngram)
 
+#Read in corpus
 allEmpirical <-Corpus(DirSource("textsEmpirical", encoding="UTF-8"), readerControl = list(language="lat")) 
+#Perform basic text-mining preprocessing
 allEmpirical<-tm_map(allEmpirical,tolower)
 allEmpirical<-tm_map(allEmpirical,removePunctuation)
 allEmpirical<-tm_map(allEmpirical,stripWhitespace)
 
-##synonymous words
+#Algorithmic rules
+#These take the form of searching for and replacing a number of words throughout the corpus
+#The substituted words follow the =-sign after 'pattern' in each line. These words are replaced with 'replacement'.
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<accompanies\\>|\\<accompanying\\>)", replacement = "accompanied")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "accordingly", replacement = "according")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<achieve2013\\>|\\<achieving\\>)", replacement = "achieve")
@@ -818,7 +825,7 @@ allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<y
 
 
 
-#Spliting words
+#Spliting words. Since we removed hyphens, some words need to be split.
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<subtopic\\>|\\<subtopics\\>)", replacement="sub topic")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<threephase\\>)", replacement="three phase")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<twophase\\>)", replacement="two phase")
@@ -854,12 +861,12 @@ allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<s
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<ppts\\>)", replacement="study_teacher")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<pts\\>)", replacement="study_teacher")
 
-#May 9th 2020: Changed Child: and other instances of named or specific children that appear in studies to "study_child".
+#Changed Child: and other instances of named or specific children that appear in studies to "study_child".
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<wouassammeeschtendran\\>)", replacement="non-english-sentence")
 
 
 ##SYNONYMS
-allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<Empirical\\>|\\<theories\\>|\\<theories\\>|\\<theory\\>)", replacement="theory")
+allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<Theoretical\\>|\\<theories\\>|\\<theories\\>|\\<theory\\>)", replacement="theory") 
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<certain\\>)", replacement="specific")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<elementary\\>)", replacement="primary")
 allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<constitue element\\>)", replacement="phase")
@@ -894,7 +901,7 @@ allEmpirical <- tm_map(allEmpirical, content_transformer(gsub), pattern = "(\\<f
 
 
 
-
+#These words either provide no meaning or are used so many times that they obscure relevant signals.
 
 wordstoremove<-c(stopwords("english"),"can","also","although","may","maybe","moreover","mostly","onto","per se", "really","therefore","though","thus",
                  "xl011","xl021","xl051","xl071","xn011","xn031","xn051","xn071","xq011","xq031","xq041","xq051","xs021","xs091","xs111","xs121",
@@ -903,10 +910,13 @@ wordstoremove<-c(stopwords("english"),"can","also","although","may","maybe","mor
 
 
 
-
+#Cleaning up..
 #allFilesx <- tm_map(allFilesx, removeWords, c("endoffile"))
 allEmpirical<-tm_map(allEmpirical,stripWhitespace)
 
+
+#Function to help make linguistic networks
+#It returns an list of edges in a directed network
 myWordNetwork <- function (txt,j.words) {
   # Clean data
   #remove capitalization
@@ -962,18 +972,21 @@ myWordNetwork <- function (txt,j.words) {
   return(export.edge.list)
 }
 
+
+#Applying the function to each excerpt
 edgelistsEmpirical<-lapply(allEmpirical,myWordNetwork,j.words=wordstoremove)
 graphsEmpirical<-list()
 for (i in 1:35){
   graphsEmpirical[[i]]<-graph.edgelist(edgelists[[i]],directed=T)
 } 
 
-
+#Bind all excerpts together to a single edge list
 allEdgeEmpirical<-rbind(edgelistsEmpirical[[1]],edgelistsEmpirical[[2]],edgelistsEmpirical[[3]],edgelistsEmpirical[[4]],edgelistsEmpirical[[5]],edgelistsEmpirical[[6]],edgelistsEmpirical[[7]],edgelistsEmpirical[[8]],edgelistsEmpirical[[9]],edgelistsEmpirical[[10]],
                           edgelistsEmpirical[[11]],edgelistsEmpirical[[12]],edgelistsEmpirical[[13]],edgelistsEmpirical[[14]],edgelistsEmpirical[[15]],edgelistsEmpirical[[16]],edgelistsEmpirical[[17]],edgelistsEmpirical[[18]],edgelistsEmpirical[[19]],edgelistsEmpirical[[20]],
                           edgelistsEmpirical[[21]],edgelistsEmpirical[[22]],edgelistsEmpirical[[23]],edgelistsEmpirical[[24]],edgelistsEmpirical[[25]],edgelistsEmpirical[[26]],edgelistsEmpirical[[27]],edgelistsEmpirical[[28]],edgelistsEmpirical[[29]],edgelistsEmpirical[[30]],
                           edgelistsEmpirical[[31]],edgelistsEmpirical[[32]],edgelistsEmpirical[[33]],edgelistsEmpirical[[34]],edgelistsEmpirical[[35]])
 
+#make separate networks for each article. Not used in manuscript
 articlesE<-lapply(edgelistsEmpirical,graph.edgelist,directed=T)
 for (i in 1:length(articlesE)){
   E(articlesE[[i]])$weight<-1
@@ -1017,6 +1030,7 @@ article33E<-graph.edgelist(edgelistsEmpirical[[33]],directed=T)
 article34E<-graph.edgelist(edgelistsEmpirical[[34]],directed=T)
 article35E<-graph.edgelist(edgelistsEmpirical[[35]],directed=T)
 
+#make combined network
 allNetEmpirical<-graph.edgelist(allEdgeEmpirical,directed=T)
 E(allNetEmpirical)$weight<-1
 allNetEmpirical<-delete.vertices(allNetEmpirical,v = which(V(allNetEmpirical)$name=="break"))

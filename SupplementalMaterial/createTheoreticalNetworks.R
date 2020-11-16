@@ -1,15 +1,20 @@
-#NEED TO FIX!! GSUB DESTROYS CORPUS!!
+#This script creates a lingusitic network based on the theoretical texts corpus
+#It will write a comma separated variables file called "listNodesTheoretical.csv" to the working directory
+#The end product is allNetTheoretical to be used in furher analyses.
 
+#First load necessary packages
 library(tm)
 library(igraph)
-library(ngram)
 #Load the files we need
 allTheoretical <-Corpus(DirSource("textsTheoretical", encoding="UTF-8"), readerControl = list(language="lat")) 
+#Perform basic text-mining preprocessing
 allTheoretical<-tm_map(allTheoretical,tolower)
 allTheoretical<-tm_map(allTheoretical,removePunctuation)
 allTheoretical<-tm_map(allTheoretical,stripWhitespace)
 
-##synonymous words
+#Algorithmic rules
+#These take the form of searching for and replacing a number of words throughout the corpus
+#The substituted words follow the =-sign after 'pattern' in each line. These words are replaced with 'replacement'.
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<accompanies\\>|\\<accompanying\\>)", replacement = "accompanied")
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "accordingly", replacement = "according")
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<achieve2013\\>|\\<achieving\\>)", replacement = "achieve")
@@ -819,7 +824,7 @@ allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(
 
 
 
-#Spliting words
+#Spliting words. Since we removed hyphens, some words need to be split.
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<subtopic\\>|\\<subtopics\\>)", replacement="sub topic")
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<threephase\\>)", replacement="three phase")
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<twophase\\>)", replacement="two phase")
@@ -855,7 +860,7 @@ allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<ppts\\>)", replacement="study_teacher")
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<pts\\>)", replacement="study_teacher")
 
-#May 9th 2020: Changed Child: and other instances of named or specific children that appear in studies to "study_child".
+#Changed Child: and other instances of named or specific children that appear in studies to "study_child".
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<wouassammeeschtendran\\>)", replacement="non-english-sentence")
 
 
@@ -894,7 +899,7 @@ allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(
 allTheoretical <- tm_map(allTheoretical, content_transformer(gsub), pattern = "(\\<first graders\\>)", replacement="1stgrade")
 
 
-#wordstoremove<-c(stopwords("english"),"can")
+#These words either provide no meaning or are used so many times that they obscure relevant signals.
 
 wordstoremove<-c(stopwords("english"),"can","also","although","may","maybe","moreover","mostly","onto","per se", "really","therefore","though","thus",
                  "xl011","xl021","xl051","xl071","xn011","xn031","xn051","xn071","xq011","xq031","xq041","xq051","xs021","xs091","xs111","xs121",
@@ -904,10 +909,13 @@ wordstoremove<-c(stopwords("english"),"can","also","although","may","maybe","mor
 
 
 
+#Cleaning up..
 
 #allFilesx <- tm_map(allFilesx, removeWords, c("endoffile"))
 allTheoretical<-tm_map(allTheoretical,stripWhitespace)
 
+#Function to help make linguistic networks
+#It returns an list of edges in a directed network
 myWordNetwork <- function (txt,j.words) {
   # Clean data
   #remove capitalization
@@ -962,6 +970,7 @@ myWordNetwork <- function (txt,j.words) {
   #}
   return(export.edge.list)
 }
+#Applying the function to each excerpt
 
 edgelistsTheoretical<-lapply(allTheoretical,myWordNetwork,j.words=wordstoremove)
 graphsTheoretical<-list()
@@ -969,11 +978,14 @@ for (i in 1:35){
   graphsTheoretical[[i]]<-graph.edgelist(edgelistsTheoretical[[i]],directed=T)
 } 
 
+#Bind all excerpts together to a single edge list
 
 allEdgeTheoretical<-rbind(edgelistsTheoretical[[1]],edgelistsTheoretical[[2]],edgelistsTheoretical[[3]],edgelistsTheoretical[[4]],edgelistsTheoretical[[5]],edgelistsTheoretical[[6]],edgelistsTheoretical[[7]],edgelistsTheoretical[[8]],edgelistsTheoretical[[9]],edgelistsTheoretical[[10]],
                         edgelistsTheoretical[[11]],edgelistsTheoretical[[12]],edgelistsTheoretical[[13]],edgelistsTheoretical[[14]],edgelistsTheoretical[[15]],edgelistsTheoretical[[16]],edgelistsTheoretical[[17]],edgelistsTheoretical[[18]],edgelistsTheoretical[[19]],edgelistsTheoretical[[20]],
                         edgelistsTheoretical[[21]],edgelistsTheoretical[[22]],edgelistsTheoretical[[23]],edgelistsTheoretical[[24]],edgelistsTheoretical[[25]],edgelistsTheoretical[[26]],edgelistsTheoretical[[27]],edgelistsTheoretical[[28]],edgelistsTheoretical[[29]],edgelistsTheoretical[[30]],
                         edgelistsTheoretical[[31]],edgelistsTheoretical[[32]],edgelistsTheoretical[[33]],edgelistsTheoretical[[34]],edgelistsTheoretical[[35]])
+
+#make separate networks for each article. Not used in manuscript
 articlesT<-lapply(edgelistsTheoretical,graph.edgelist,directed=T)
 for (i in 1:length(articlesT)){
   E(articlesT[[i]])$weight<-1
@@ -1017,6 +1029,8 @@ article32T<-graph.edgelist(edgelistsTheoretical[[32]],directed=T)
 article33T<-graph.edgelist(edgelistsTheoretical[[33]],directed=T)
 article34T<-graph.edgelist(edgelistsTheoretical[[34]],directed=T)
 article35T<-graph.edgelist(edgelistsTheoretical[[35]],directed=T)
+#make combined network
+
 allNetTheoretical<-graph.edgelist(allEdgeTheoretical,directed=T)
 E(allNetTheoretical)$weight<-1
 allNetTheoretical<-delete.vertices(allNetTheoretical,v = which(V(allNetTheoretical)$name=="break"))
