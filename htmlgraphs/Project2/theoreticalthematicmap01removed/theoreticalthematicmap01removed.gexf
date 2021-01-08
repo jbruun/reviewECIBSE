@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-12-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v_name" title="name" type="string"></attribute>
+      <attribute id="v_id" title="id" type="string"></attribute>
+      <attribute id="v_n_words" title="n_words" type="double"></attribute>
+      <attribute id="v_fastgreedy" title="fastgreedy" type="double"></attribute>
+      <attribute id="modulename" title="moduleName" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n0" label="Development">
+        <attvalues>
+          <attvalue for="v_name" value="2;develop;concept;point"></attvalue>
+          <attvalue for="v_id" value="2;develop;concept;point"></attvalue>
+          <attvalue for="v_n_words" value="85.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Development"></attvalue>
+        </attvalues>
+        <viz:size value="54.806202"></viz:size>
+        <viz:position x="97.33535" y="794.51874"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n1" label="Young child explores">
+        <attvalues>
+          <attvalue for="v_name" value="3;explore;child;focus"></attvalue>
+          <attvalue for="v_id" value="3;explore;child;focus"></attvalue>
+          <attvalue for="v_n_words" value="150.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Young child explores"></attvalue>
+        </attvalues>
+        <viz:size value="80.0"></viz:size>
+        <viz:position x="268.61407" y="237.69858"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n2" label="Experiential education">
+        <attvalues>
+          <attvalue for="v_name" value="4;primary;education;context"></attvalue>
+          <attvalue for="v_id" value="4;primary;education;context"></attvalue>
+          <attvalue for="v_n_words" value="113.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Experiential education"></attvalue>
+        </attvalues>
+        <viz:size value="65.65891"></viz:size>
+        <viz:position x="933.68774" y="148.90594"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n3" label="Ask questions">
+        <attvalues>
+          <attvalue for="v_name" value="5;observation;interpret;question"></attvalue>
+          <attvalue for="v_id" value="5;observation;interpret;question"></attvalue>
+          <attvalue for="v_n_words" value="110.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Ask questions"></attvalue>
+        </attvalues>
+        <viz:size value="64.496124"></viz:size>
+        <viz:position x="-453.32098" y="-699.5593"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n4" label="Problem solving">
+        <attvalues>
+          <attvalue for="v_name" value="6;problem;solve;include"></attvalue>
+          <attvalue for="v_id" value="6;problem;solve;include"></attvalue>
+          <attvalue for="v_n_words" value="96.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="3.0"></attvalue>
+          <attvalue for="modulename" value="Problem solving"></attvalue>
+        </attvalues>
+        <viz:size value="59.069767"></viz:size>
+        <viz:position x="-102.579956" y="479.4796"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n5" label="Hands-on authentic experiences">
+        <attvalues>
+          <attvalue for="v_name" value="7;experience;authentic;phenomenon"></attvalue>
+          <attvalue for="v_id" value="7;experience;authentic;phenomenon"></attvalue>
+          <attvalue for="v_n_words" value="104.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Hands-on authentic experiences"></attvalue>
+        </attvalues>
+        <viz:size value="62.170544"></viz:size>
+        <viz:position x="151.24808" y="-610.56647"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n6" label="Surrounding world">
+        <attvalues>
+          <attvalue for="v_name" value="8;world;around;material"></attvalue>
+          <attvalue for="v_id" value="8;world;around;material"></attvalue>
+          <attvalue for="v_n_words" value="84.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Surrounding world"></attvalue>
+        </attvalues>
+        <viz:size value="54.418602"></viz:size>
+        <viz:position x="911.14624" y="-150.10461"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n7" label="Agency of children during inquiry">
+        <attvalues>
+          <attvalue for="v_name" value="9;adult;kindergartener;like"></attvalue>
+          <attvalue for="v_id" value="9;adult;kindergartener;like"></attvalue>
+          <attvalue for="v_n_words" value="86.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Lesson plan"></attvalue>
+        </attvalues>
+        <viz:size value="55.193798"></viz:size>
+        <viz:position x="-939.2717" y="-22.946074"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n8" label="Reflect and discuss">
+        <attvalues>
+          <attvalue for="v_name" value="10;reflect;naïve;strong"></attvalue>
+          <attvalue for="v_id" value="10;reflect;naïve;strong"></attvalue>
+          <attvalue for="v_n_words" value="45.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Reflect and discuss"></attvalue>
+        </attvalues>
+        <viz:size value="39.302326"></viz:size>
+        <viz:position x="540.3407" y="670.63556"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n9" label="Open ended investigation">
+        <attvalues>
+          <attvalue for="v_name" value="11;involve;investigate;open"></attvalue>
+          <attvalue for="v_id" value="11;involve;investigate;open"></attvalue>
+          <attvalue for="v_n_words" value="61.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Open ended investigation"></attvalue>
+        </attvalues>
+        <viz:size value="45.503876"></viz:size>
+        <viz:position x="-1024.2461" y="-290.56543"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n10" label="Allow student expressiveness">
+        <attvalues>
+          <attvalue for="v_name" value="12;student;place;take"></attvalue>
+          <attvalue for="v_id" value="12;student;place;take"></attvalue>
+          <attvalue for="v_n_words" value="84.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Allow student expressiveness"></attvalue>
+        </attvalues>
+        <viz:size value="54.418602"></viz:size>
+        <viz:position x="881.25525" y="370.03165"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n11" label="Previous and new knowledge">
+        <attvalues>
+          <attvalue for="v_name" value="13;knowledge;form;discourse"></attvalue>
+          <attvalue for="v_id" value="13;knowledge;form;discourse"></attvalue>
+          <attvalue for="v_n_words" value="107.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Previous and new knowledge"></attvalue>
+        </attvalues>
+        <viz:size value="63.333336"></viz:size>
+        <viz:position x="-950.82513" y="-546.612"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n12" label="Instructing model and evidence">
+        <attvalues>
+          <attvalue for="v_name" value="14;model;use;evidence"></attvalue>
+          <attvalue for="v_id" value="14;model;use;evidence"></attvalue>
+          <attvalue for="v_n_words" value="113.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Instructing model and evidence"></attvalue>
+        </attvalues>
+        <viz:size value="65.65891"></viz:size>
+        <viz:position x="-301.9622" y="-229.18631"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n13" label="Transdisciplinary practice">
+        <attvalues>
+          <attvalue for="v_name" value="15;tool;design;intent"></attvalue>
+          <attvalue for="v_id" value="15;tool;design;intent"></attvalue>
+          <attvalue for="v_n_words" value="55.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="2.0"></attvalue>
+          <attvalue for="modulename" value="Transdisciplinary practice"></attvalue>
+        </attvalues>
+        <viz:size value="43.178295"></viz:size>
+        <viz:position x="721.0195" y="507.50818"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n14" label="Process skill">
+        <attvalues>
+          <attvalue for="v_name" value="16;skill;process;communicate"></attvalue>
+          <attvalue for="v_id" value="16;skill;process;communicate"></attvalue>
+          <attvalue for="v_n_words" value="102.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="3.0"></attvalue>
+          <attvalue for="modulename" value="Process skill"></attvalue>
+        </attvalues>
+        <viz:size value="61.395348"></viz:size>
+        <viz:position x="-355.92044" y="228.16707"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n15" label="Educational/Political context">
+        <attvalues>
+          <attvalue for="v_name" value="17;state;position;united"></attvalue>
+          <attvalue for="v_id" value="17;state;position;united"></attvalue>
+          <attvalue for="v_n_words" value="28.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Child centred approach"></attvalue>
+        </attvalues>
+        <viz:size value="32.713177"></viz:size>
+        <viz:position x="392.51297" y="-341.08313"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n16" label="Share products with others">
+        <attvalues>
+          <attvalue for="v_name" value="18;goal;community;classroom"></attvalue>
+          <attvalue for="v_id" value="18;goal;community;classroom"></attvalue>
+          <attvalue for="v_n_words" value="49.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="3.0"></attvalue>
+          <attvalue for="modulename" value="Share product with others"></attvalue>
+        </attvalues>
+        <viz:size value="40.852715"></viz:size>
+        <viz:position x="-133.28848" y="69.51546"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n17" label="Influences of mental function">
+        <attvalues>
+          <attvalue for="v_name" value="19;function;operation;influence"></attvalue>
+          <attvalue for="v_id" value="19;function;operation;influence"></attvalue>
+          <attvalue for="v_n_words" value="21.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Influences of mental function"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="98.10499" y="-80.13061"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n18" label="Inquiry not linear">
+        <attvalues>
+          <attvalue for="v_name" value="20;phrase;bybee2014;linear"></attvalue>
+          <attvalue for="v_id" value="20;phrase;bybee2014;linear"></attvalue>
+          <attvalue for="v_n_words" value="22.0"></attvalue>
+          <attvalue for="v_fastgreedy" value="1.0"></attvalue>
+          <attvalue for="modulename" value="Inquiry not linear"></attvalue>
+        </attvalues>
+        <viz:size value="30.387596"></viz:size>
+        <viz:position x="-848.5052" y="-851.35986"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="n0" target="n1" weight="10.0"></edge>
+      <edge id="1" source="n1" target="n2" weight="13.0"></edge>
+      <edge id="2" source="n1" target="n6" weight="13.0"></edge>
+      <edge id="3" source="n2" target="n1" weight="10.0"></edge>
+      <edge id="4" source="n3" target="n12" weight="15.0"></edge>
+      <edge id="5" source="n4" target="n1" weight="11.0"></edge>
+      <edge id="6" source="n4" target="n14" weight="11.0"></edge>
+      <edge id="7" source="n5" target="n12" weight="13.0"></edge>
+      <edge id="8" source="n6" target="n2" weight="8.0"></edge>
+      <edge id="9" source="n7" target="n12" weight="11.0"></edge>
+      <edge id="10" source="n8" target="n1" weight="3.0"></edge>
+      <edge id="11" source="n9" target="n12" weight="7.0"></edge>
+      <edge id="12" source="n10" target="n1" weight="11.0"></edge>
+      <edge id="13" source="n11" target="n12" weight="14.0"></edge>
+      <edge id="14" source="n12" target="n1" weight="11.0"></edge>
+      <edge id="15" source="n13" target="n1" weight="8.0"></edge>
+      <edge id="16" source="n14" target="n12" weight="13.0"></edge>
+      <edge id="17" source="n15" target="n1" weight="3.0"></edge>
+      <edge id="18" source="n15" target="n12" weight="3.0"></edge>
+      <edge id="19" source="n16" target="n1" weight="5.0"></edge>
+      <edge id="20" source="n16" target="n12" weight="5.0"></edge>
+      <edge id="21" source="n16" target="n14" weight="5.0"></edge>
+      <edge id="22" source="n17" target="n1" weight="4.0"></edge>
+      <edge id="23" source="n17" target="n12" weight="4.0"></edge>
+      <edge id="24" source="n18" target="n3" weight="3.0"></edge>
+      <edge id="25" source="n18" target="n11" weight="3.0"></edge>
+    </edges>
+  </graph>
+</gexf>
